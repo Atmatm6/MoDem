@@ -1,5 +1,6 @@
 # MoDem
-MoDem is a text adventure reading program. The program is supposed to be very customizable. MoDem is writen in Java so it would need Java SE. To compile, you would need log4j and Jackson.
+MoDem is a text adventure reading program. The program is supposed to be very customizable. MoDem is writen in Java so it would need Java SE. 
+To compile, you would need [log4j](http://logging.apache.org/log4j/2.x/) and [Jackson](http://wiki.fasterxml.com/JacksonHome).
 
 ## Wha?
 If you don't know how to compile this, get out but keep on the lookout for a beta release.
